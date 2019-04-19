@@ -1,0 +1,190 @@
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojAssemblyReference.cache
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Form1.resources
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.cache
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CoreCompileInputs.cache
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\alpha reload\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojAssemblyReference.cache
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Form1.resources
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.cache
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CoreCompileInputs.cache
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\bin\Debug\taglib-sharp.dll
+C:\Users\Black Parrot\Desktop\AiviALAPHAreload\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CopyComplete
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\bin\Debug\taglib-sharp.dll
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojAssemblyReference.cache
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Form1.resources
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.cache
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CoreCompileInputs.cache
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CopyComplete
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AIVI.v.0.2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\bin\Debug\taglib-sharp.dll
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojAssemblyReference.cache
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Form1.resources
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.cache
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CoreCompileInputs.cache
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CopyComplete
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AIVI.V.0.3\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\bin\Debug\taglib-sharp.dll
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojAssemblyReference.cache
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.aiviMainForm.resources
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.cache
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CoreCompileInputs.cache
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CopyComplete
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AIVI.V.0.4\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\bin\Debug\taglib-sharp.dll
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojAssemblyReference.cache
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.aiviMainForm.resources
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.cache
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CoreCompileInputs.cache
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.CopyComplete
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Black Parrot\Desktop\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+L:\AIVI.V.0.5\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+L:\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+L:\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+L:\AIVI.V.0.5\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+L:\AIVI.V.0.5\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+L:\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojResolveAssemblyReference.cache
+L:\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+L:\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.aiviMainForm.resources
+L:\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+L:\AIVI.V.0.5\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.Cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojResolveAssemblyReference.cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.aiviMainForm.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.5 v2\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.Cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojResolveAssemblyReference.cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.aiviMainForm.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.Cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.MediaPlayer.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\Interop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.ResolveComReference.cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.7\AiviALAPHAreload\bin\Debug\Interop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\Interop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.ResolveComReference.cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\bin\Debug\Interop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojResolveAssemblyReference.cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.aiviMainForm.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.MediaPlayer.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.Cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\Interop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.ResolveComReference.cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\Emgu.CV.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\Emgu.Util.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\Emgu.CV.xml
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\Emgu.Util.xml
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\Interop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojResolveAssemblyReference.cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.aiviMainForm.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.FaceRecognization.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.MediaPlayer.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.22\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.Cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\Interop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.ResolveComReference.cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csprojResolveAssemblyReference.cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.CustomSettings.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.aiviMainForm.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.FaceRecognization.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.MediaPlayer.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.Properties.Resources.resources
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.GenerateResource.Cache
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.pdb
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\Emgu.CV.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\Emgu.Util.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\itextsharp.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\Emgu.CV.xml
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\Emgu.Util.xml
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\Interop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\jarvis\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\aivi\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+C:\Users\Touhid Hasan\Desktop\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\Interop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Touhid Hasan\Desktop\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.ResolveComReference.cache
+C:\Users\Touhid Hasan\Desktop\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+C:\Users\Touhid Hasan\Desktop\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb
+H:\aivi\AIVI.V.0.8.25\AiviALAPHAreload\bin\Debug\AiviALAPHAreload.exe.config
+H:\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\Interop.WMPLib.dll
+H:\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AxInterop.WMPLib.dll
+H:\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.csproj.ResolveComReference.cache
+H:\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.exe
+H:\aivi\AIVI.V.0.8.25\AiviALAPHAreload\obj\Debug\AiviALAPHAreload.pdb

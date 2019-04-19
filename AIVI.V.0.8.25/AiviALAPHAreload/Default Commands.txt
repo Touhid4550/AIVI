@@ -1,0 +1,58 @@
+﻿Hello
+Hello Aivi
+Goodbye
+Goodbye Aivi
+Close Aivi
+Aivi
+Stop talking
+What's my name?
+What time is it
+What day is it
+Whats todays date
+Whats the date
+Hows the weather
+Whats the weather like
+Whats it like outside
+What will tomorrow be like
+Whats tomorrows forecast
+Whats tomorrow like
+Whats the temperature
+Whats the temperature outside
+Play music
+Play video
+Switch Window
+Close window
+Out of the way
+Come back
+Show default commands
+Show shell commands
+Show web commands
+Show social commands
+Show Music Library
+Show Video Library
+Show Email List
+Show listbox
+Hide listbox
+Shutdown
+Log off
+Restart
+Abort
+I want to add custom commands
+I want to add a custom command
+I want to add a command
+Update commands
+Set the alarm
+What time is the alarm
+Clear the alarm
+Stop listening
+AIVI Come Back Online
+Refresh libraries
+Change video 
+
+Change music directory
+Check for new emails
+Read the email
+Open the email
+Next email
+Previous email
+Clear email list

@@ -1,0 +1,19 @@
+play
+pause
+open play list
+add play list
+minimize
+hide media player
+show media player
+show media player again
+full screen
+maximize
+exit full screen
+volume down
+volume up
+mute volume
+show play list
+hide play list
+next
+prvious
+previous
